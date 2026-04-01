@@ -1,97 +1,141 @@
 # github-actions-resources
 
-## Interesting actions
+## GitHub Official Actions
 
-- https://autofix.ci/
-- https://github.com/8BitJonny/gh-get-current-pr
-- https://github.com/actions/add-to-project
-- https://github.com/actions/ai-inference
-- https://github.com/actions/attest
-- https://github.com/actions/cache
-- https://github.com/actions/checkout
-- https://github.com/actions/configure-pages
-- https://github.com/actions/container-action
-- https://github.com/actions/create-github-app-token
-- https://github.com/actions/dependency-review-action
-- https://github.com/actions/deploy-pages
-- https://github.com/actions/download-artifact
-- https://github.com/actions/github-script
-- https://github.com/actions/labeler
-- https://github.com/actions/setup-copilot
-- https://github.com/actions/setup-dotnet
-- https://github.com/actions/setup-java
-- https://github.com/actions/setup-node
-- https://github.com/actions/setup-python
-- https://github.com/actions/stale
-- https://github.com/actions/upload-artifact
-- https://github.com/actions/upload-pages-artifact
-- https://github.com/alexellis/arkade-get
-- https://github.com/amannn/action-semantic-pull-request
-- https://github.com/astral-sh/setup-uv
-- https://github.com/azure/setup-helm
-- https://github.com/bats-core/bats-action
-- https://github.com/carloscastrojumo/github-cherry-pick-action
-- https://github.com/chuhlomin/render-template
-- https://github.com/crazy-max/ghaction-github-labeler
-- https://github.com/DavidAnson/markdownlint-cli2-action
-- https://github.com/docker/login-action
-- https://github.com/docker/scout-action
-- https://github.com/docker/setup-buildx-action
-- https://github.com/dorny/paths-filter
-- https://github.com/frenck/action-setup-yq
-- https://github.com/github/rubocop-github
-- https://github.com/github/update-project-action
-- https://github.com/google-github-actions/auth
-- https://github.com/google-github-actions/get-secretmanager-secrets
-- https://github.com/google-github-actions/setup-gcloud
-- https://github.com/googleapis/release-please-action
-- https://github.com/hashicorp/vault-action
-- https://github.com/helm/kind-action
-- https://github.com/helmless/google-cloudrun-action
-- https://github.com/jdx/mise-action
-- https://github.com/kishaningithub/setup-tf-summarize
-- https://github.com/korthout/backport-action
-- https://github.com/marocchino/sticky-pull-request-comment
-- https://github.com/mikefarah/yq
-- https://github.com/peter-evans/close-fork-pulls
-- https://github.com/peter-evans/close-issue
-- https://github.com/peter-evans/close-pull
-- https://github.com/peter-evans/create-issue-from-file
-- https://github.com/peter-evans/create-or-update-comment
-- https://github.com/peter-evans/create-pull-request
-- https://github.com/peter-evans/enable-pull-request-automerge
-- https://github.com/peter-evans/find-comment
-- https://github.com/peter-evans/rebase
-- https://github.com/peter-evans/repository-dispatch
-- https://github.com/peter-evans/slash-command-dispatch
-- https://github.com/pre-commit/action
-- https://github.com/re-actors/alls-green
-- https://github.com/release-drafter/release-drafter
-- https://github.com/renovatebot/github-action
-- https://github.com/renovatebot/renovate
-- https://github.com/reviewdog/action-actionlint
-- https://github.com/rlespinasse/github-slug-action
-- https://github.com/rlespinasse/slugify-value
-- https://github.com/rtCamp/action-slack-notify
-- https://github.com/sonarsource/sonarqube-scan-action
-- https://github.com/suzuki-shunsuke/commit-action
-- https://github.com/suzuki-shunsuke/ghalint
-- https://github.com/suzuki-shunsuke/github-comment
-- https://github.com/suzuki-shunsuke/pinact
-- https://github.com/suzuki-shunsuke/tfaction
-- https://github.com/thollander/actions-comment-pull-request
-- https://github.com/zgosalvez/github-actions-ensure-sha-pinned-actions
+  - [actions/add-to-project](https://github.com/actions/add-to-project)
+  - [actions/ai-inference](https://github.com/actions/ai-inference)
+  - [actions/attest](https://github.com/actions/attest)
+  - [actions/cache](https://github.com/actions/cache)
+  - [actions/checkout](https://github.com/actions/checkout)
+  - [actions/configure-pages](https://github.com/actions/configure-pages)
+  - [actions/container-action](https://github.com/actions/container-action)
+  - [actions/create-github-app-token](https://github.com/actions/create-github-app-token)
+  - [actions/dependency-review-action](https://github.com/actions/dependency-review-action)
+  - [actions/deploy-pages](https://github.com/actions/deploy-pages)
+  - [actions/download-artifact](https://github.com/actions/download-artifact)
+  - [actions/github-script](https://github.com/actions/github-script)
+  - [actions/labeler](https://github.com/actions/labeler)
+  - [actions/setup-copilot](https://github.com/actions/setup-copilot)
+  - [actions/setup-dotnet](https://github.com/actions/setup-dotnet)
+  - [actions/setup-java](https://github.com/actions/setup-java)
+  - [actions/setup-node](https://github.com/actions/setup-node)
+  - [actions/setup-python](https://github.com/actions/setup-python)
+  - [actions/stale](https://github.com/actions/stale)
+  - [actions/upload-artifact](https://github.com/actions/upload-artifact)
+  - [actions/upload-pages-artifact](https://github.com/actions/upload-pages-artifact)
+  - [github/rubocop-github](https://github.com/github/rubocop-github)
+  - [github/update-project-action](https://github.com/github/update-project-action)
 
-- https://github.com/GuillaumeFalourd/useful-actions?tab=readme-ov-file
-- https://github.com/Correia-jpv/fucking-awesome-actions?tab=readme-ov-file
-- https://about.codecov.io/blog/discovering-the-most-popular-and-most-used-github-actions
-- https://suzuki-shunsuke.github.io/guide-github-action-renovate/
+## Community Actions
 
-- https://github.com/anchore/grype
-- https://github.com/zizmorcore/zizmor
-- https://github.com/boostsecurityio/poutine
-- https://github.com/synacktiv/octoscan
-- https://github.com/rhysd/actionlint
-- https://github.com/ossf/scorecard-action
-- https://github.com/step-security/secure-repo
-- https://github.com/step-security/harden-runner
+### Workflow & Repository Management
+
+  - [8BitJonny/gh-get-current-pr](https://github.com/8BitJonny/gh-get-current-pr)
+  - [ad-m/github-push-action](https://github.com/ad-m/github-push-action)
+  - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
+  - [carloscastrojumo/github-cherry-pick-action](https://github.com/carloscastrojumo/github-cherry-pick-action)
+  - [chuhlomin/render-template](https://github.com/chuhlomin/render-template)
+  - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler)
+  - [dorny/paths-filter](https://github.com/dorny/paths-filter)
+  - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+  - [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
+  - [korthout/backport-action](https://github.com/korthout/backport-action)
+  - [lewagon/wait-on-check-action](https://github.com/lewagon/wait-on-check-action)
+  - [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment)
+  - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
+  - [re-actors/alls-green](https://github.com/re-actors/alls-green)
+  - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+  - [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action)
+  - [rlespinasse/slugify-value](https://github.com/rlespinasse/slugify-value)
+  - [rtCamp/action-slack-notify](https://github.com/rtCamp/action-slack-notify)
+  - [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
+  - [thollander/actions-comment-pull-request](https://github.com/thollander/actions-comment-pull-request)
+
+### Peter Evans Collection
+
+  - [peter-evans/close-fork-pulls](https://github.com/peter-evans/close-fork-pulls)
+  - [peter-evans/close-issue](https://github.com/peter-evans/close-issue)
+  - [peter-evans/close-pull](https://github.com/peter-evans/close-pull)
+  - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file)
+  - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment)
+  - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request)
+  - [peter-evans/enable-pull-request-automerge](https://github.com/peter-evans/enable-pull-request-automerge)
+  - [peter-evans/find-comment](https://github.com/peter-evans/find-comment)
+  - [peter-evans/rebase](https://github.com/peter-evans/rebase)
+  - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
+  - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch)
+
+### Suzuki Shunsuke Collection
+
+  - [suzuki-shunsuke/commit-action](https://github.com/suzuki-shunsuke/commit-action)
+  - [suzuki-shunsuke/ghalint](https://github.com/suzuki-shunsuke/ghalint)
+  - [suzuki-shunsuke/github-comment](https://github.com/suzuki-shunsuke/github-comment)
+  - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact)
+  - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction)
+
+### Tooling & Environment Setup
+
+  - [alexellis/arkade-get](https://github.com/alexellis/arkade-get)
+  - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
+  - [azure/setup-helm](https://github.com/azure/setup-helm)
+  - [frenck/action-setup-yq](https://github.com/frenck/action-setup-yq)
+  - [helm/kind-action](https://github.com/helm/kind-action)
+  - [jdx/mise-action](https://github.com/jdx/mise-action)
+  - [kishaningithub/setup-tf-summarize](https://github.com/kishaningithub/setup-tf-summarize)
+  - [mikefarah/yq](https://github.com/mikefarah/yq)
+
+### Security & Quality
+
+  - [anchore/grype](https://github.com/anchore/grype)
+  - [bats-core/bats-action](https://github.com/bats-core/bats-action)
+  - [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine)
+  - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
+  - [j178/prek-action](https://www.google.com/search?q=https://github.com/j178/prek-action)
+  - [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
+  - [pre-commit/action](https://github.com/pre-commit/action)
+  - [reviewdog/action-actionlint](https://github.com/reviewdog/action-actionlint)
+  - [rhysd/actionlint](https://github.com/rhysd/actionlint)
+  - [semgrep/semgrep](https://github.com/semgrep/semgrep)
+  - [step-security/harden-runner](https://github.com/step-security/harden-runner)
+  - [step-security/secure-repo](https://github.com/step-security/secure-repo)
+  - [synacktiv/octoscan](https://github.com/synacktiv/octoscan)
+  - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+  - [zgosalvez/github-actions-ensure-sha-pinned-actions](https://github.com/zgosalvez/github-actions-ensure-sha-pinned-actions)
+  - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+
+### Infrastructure & Deploy
+
+  - [docker/login-action](https://github.com/docker/login-action)
+  - [docker/scout-action](https://github.com/docker/scout-action)
+  - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action)
+  - [google-github-actions/auth](https://github.com/google-github-actions/auth)
+  - [google-github-actions/deploy-appengine](https://github.com/google-github-actions/deploy-appengine)
+  - [google-github-actions/deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun)
+  - [google-github-actions/get-gke-credentials](https://github.com/google-github-actions/get-gke-credentials)
+  - [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets)
+  - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud)
+  - [google-github-actions/upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage)
+  - [helmless/google-cloudrun-action](https://github.com/helmless/google-cloudrun-action)
+
+### AI & LLM Automation
+
+  - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli)
+
+### Dependency Management
+
+  - [renovatebot/github-action](https://github.com/renovatebot/github-action)
+  - [renovatebot/renovate](https://github.com/renovatebot/renovate)
+
+## Proprietary & External Services
+
+  - [autofix.ci](https://autofix.ci/)
+  - [Codecov: Popular Actions Blog](https://about.codecov.io/blog/discovering-the-most-popular-and-most-used-github-actions)
+  - [HashiCorp Vault Action](https://github.com/hashicorp/vault-action)
+  - [Snyk Actions](https://github.com/snyk/actions)
+  - [SonarSource SonarQube Scan](https://github.com/sonarsource/sonarqube-scan-action)
+
+## Curated Resources
+
+  - [Correia-jpv/fucking-awesome-actions](https://github.com/Correia-jpv/fucking-awesome-actions?tab=readme-ov-file)
+  - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions?tab=readme-ov-file)
+  - [Suzuki Shunsuke: Guide to Renovate on GitHub Actions](https://suzuki-shunsuke.github.io/guide-github-action-renovate/)
