@@ -80,6 +80,7 @@
 - https://github.com/suzuki-shunsuke/pinact
 - https://github.com/suzuki-shunsuke/tfaction
 - https://github.com/thollander/actions-comment-pull-request
+- https://github.com/zgosalvez/github-actions-ensure-sha-pinned-actions
 
 - https://github.com/GuillaumeFalourd/useful-actions?tab=readme-ov-file
 - https://github.com/Correia-jpv/fucking-awesome-actions?tab=readme-ov-file
