@@ -37,6 +37,9 @@
   - [chuhlomin/render-template](https://github.com/chuhlomin/render-template)
   - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler)
   - [dorny/paths-filter](https://github.com/dorny/paths-filter)
+  - [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes)
+  - [gacts/github-slug](https://github.com/gacts/github-slug)
+  - [gacts/run-and-post-run](https://github.com/gacts/run-and-post-run)
   - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
   - [googleapis/release-please-action](https://github.com/googleapis/release-please-action)
   - [korthout/backport-action](https://github.com/korthout/backport-action)
@@ -45,6 +48,7 @@
   - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
   - [re-actors/alls-green](https://github.com/re-actors/alls-green)
   - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+  - [rvben/rumdl](https://github.com/rvben/rumdl)
   - [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action)
   - [rlespinasse/slugify-value](https://github.com/rlespinasse/slugify-value)
   - [rtCamp/action-slack-notify](https://github.com/rtCamp/action-slack-notify)
@@ -83,6 +87,7 @@
   - [jdx/mise-action](https://github.com/jdx/mise-action)
   - [kishaningithub/setup-tf-summarize](https://github.com/kishaningithub/setup-tf-summarize)
   - [mikefarah/yq](https://github.com/mikefarah/yq)
+  - [tombi-toml/setup-tombi](https://github.com/tombi-toml/setup-tombi)
 
 ### Security & Quality
 
@@ -90,6 +95,7 @@
   - [bats-core/bats-action](https://github.com/bats-core/bats-action)
   - [boostsecurityio/poutine](https://github.com/boostsecurityio/poutine)
   - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
+  - [gacts/gitleaks](https://github.com/gacts/gitleaks)
   - [j178/prek-action](https://www.google.com/search?q=https://github.com/j178/prek-action)
   - [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
   - [pre-commit/action](https://github.com/pre-commit/action)
