@@ -112,7 +112,7 @@
 - [synacktiv/octoscan](https://github.com/synacktiv/octoscan)
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 - [zgosalvez/github-actions-ensure-sha-pinned-actions](https://github.com/zgosalvez/github-actions-ensure-sha-pinned-actions)
-- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)  
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
 
 ### Infrastructure & Deploy
 
