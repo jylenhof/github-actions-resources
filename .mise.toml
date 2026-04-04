@@ -1,0 +1,8 @@
+[settings]
+npm.package_manager = "bun"
+[tools]
+prek = "0.3.8"
+rumdl = "0.1.66"
+"npm:pin-github-action" = "latest"
+actionlint = "latest"
+tombi = "0.9.14"
