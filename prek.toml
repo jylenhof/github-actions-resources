@@ -1,14 +1,46 @@
 [[repos]]
 repo = "local"
 hooks = [
-  { id = "actionlint", name = "actionlint", entry = "actionlint", language = "system", files = '\.github/workflows/.*\.(yaml|yml)$' },
-  { id = "pinact", name = "pinact", entry = "pinact run", language = "system", files = '\.github/workflows/.*\.(yaml|yml)$' },
-  { id = "rumdl", name = "rumdl", entry = "rumdl check", language = "system", files = '\.md$' },
-]
-
-[[repos]]
-repo = "https://github.com/tcort/markdown-link-check"
-rev = "v3.14.2"
-hooks=[
-  { id = "markdown-link-check", name = "markdown-link-check", entry = "markdown-link-check", language = "node", files = '\.md$', args = ["-q"] }
+  {
+    id = "actionlint",
+    name = "actionlint",
+    entry = "actionlint",
+    language = "system",
+    files = '\.github/workflows/.*\.(yaml|yml)$'
+  },
+  {
+    id = "pinact",
+    name = "pinact",
+    entry = "pinact run",
+    language = "system",
+    files = '\.github/workflows/.*\.(yaml|yml)$'
+  },
+  {
+    id = "rumdl",
+    name = "rumdl",
+    entry = "rumdl check",
+    language = "system",
+    files = '\.md$'
+  },
+  {
+    id = "tombi-format",
+    name = "tombi format",
+    entry = "tombi format",
+    language = "system",
+    files = '\.toml$'
+  },
+  {
+    id = "tombi-check",
+    name = "tombi check",
+    entry = "tombi check",
+    language = "system",
+    files = '\.toml$'
+  },
+  {
+    id = "lychee",
+    name = "lychee",
+    entry = "lychee",
+    language = "system",
+    files = '\.md$'
+  }
 ]
