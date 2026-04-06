@@ -95,6 +95,7 @@
 - [jdx/mise-action](https://github.com/jdx/mise-action)
 - [kishaningithub/setup-tf-summarize](https://github.com/kishaningithub/setup-tf-summarize)
 - [mikefarah/yq](https://github.com/mikefarah/yq)
+- [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook)
 - [tombi-toml/setup-tombi](https://github.com/tombi-toml/setup-tombi)
 
 ### Security & Quality
@@ -107,6 +108,7 @@
 - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
 - [gacts/gitleaks](https://github.com/gacts/gitleaks)
 - [j178/prek-action](https://github.com/j178/prek-action)
+- [mpalmer/action-validator](https://github.com/mpalmer/action-validator)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
 - [pre-commit/action](https://github.com/pre-commit/action)
 - [reviewdog/action-actionlint](https://github.com/reviewdog/action-actionlint)
