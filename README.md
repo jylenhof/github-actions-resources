@@ -17,12 +17,14 @@
 - [actions/labeler](https://github.com/actions/labeler)
 - [actions/setup-copilot](https://github.com/actions/setup-copilot)
 - [actions/setup-dotnet](https://github.com/actions/setup-dotnet)
+- [actions/setup-go](https://github.com/actions/setup-go)
 - [actions/setup-java](https://github.com/actions/setup-java)
 - [actions/setup-node](https://github.com/actions/setup-node)
 - [actions/setup-python](https://github.com/actions/setup-python)
 - [actions/stale](https://github.com/actions/stale)
 - [actions/upload-artifact](https://github.com/actions/upload-artifact)
 - [actions/upload-pages-artifact](https://github.com/actions/upload-pages-artifact)
+- [github/dependabot-action](https://github.com/github/dependabot-action)
 - [github/rubocop-github](https://github.com/github/rubocop-github)
 - [github/update-project-action](https://github.com/github/update-project-action)
 
@@ -33,6 +35,9 @@
 - [8BitJonny/gh-get-current-pr](https://github.com/8BitJonny/gh-get-current-pr)
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action)
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)
+- [austenstone/copilot-usage](https://github.com/austenstone/copilot-usage)
+- [austenstone/github-python-script](https://github.com/austenstone/github-python-script)
+- [austenstone/opentelemetry-actions](https://github.com/austenstone/opentelemetry-actions)
 - [carloscastrojumo/github-cherry-pick-action](https://github.com/carloscastrojumo/github-cherry-pick-action)
 - [chuhlomin/render-template](https://github.com/chuhlomin/render-template)
 - [crazy-max/ghaction-docker-status](https://github.com/crazy-max/ghaction-docker-status)
@@ -61,6 +66,7 @@
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
 - [thollander/actions-comment-pull-request](https://github.com/thollander/actions-comment-pull-request)
 - [tj-actions/auto-doc](https://github.com/tj-actions/auto-doc)
+- [vedantmgoyal9/winget-releaser](https://github.com/vedantmgoyal9/winget-releaser)
 
 ### Peter Evans Collection
 
@@ -90,12 +96,20 @@
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv)
 - [azure/setup-helm](https://github.com/azure/setup-helm)
 - [azure/setup-kubectl](https://github.com/azure/setup-kubectl)
+- [denoland/setup-deno](https://github.com/denoland/setup-deno)
 - [frenck/action-setup-yq](https://github.com/frenck/action-setup-yq)
+- [haskell-actions/setup](https://github.com/haskell-actions/setup)
 - [helm/kind-action](https://github.com/helm/kind-action)
 - [jdx/mise-action](https://github.com/jdx/mise-action)
+- [julia-actions/setup-julia](https://github.com/julia-actions/setup-julia)
 - [kishaningithub/setup-tf-summarize](https://github.com/kishaningithub/setup-tf-summarize)
+- [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua)
+- [leafo/gh-actions-luarocks](https://github.com/leafo/gh-actions-luarocks)
 - [mikefarah/yq](https://github.com/mikefarah/yq)
+- [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun)
 - [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook)
+- [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
+- [ruby/setup-ruby](https://github.com/ruby/setup-ruby)
 - [tombi-toml/setup-tombi](https://github.com/tombi-toml/setup-tombi)
 
 ### Security & Quality
@@ -120,6 +134,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
 - [zgosalvez/github-actions-ensure-sha-pinned-actions](https://github.com/zgosalvez/github-actions-ensure-sha-pinned-actions)
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+- [zizmorcore/zizmor-action](https://github.com/zizmorcore/zizmor-action)
 
 ### Infrastructure & Deploy
 
@@ -135,6 +150,7 @@
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud)
 - [google-github-actions/upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage)
 - [helmless/google-cloudrun-action](https://github.com/helmless/google-cloudrun-action)
+- [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action)
 
 ### AI & LLM Automation
 
@@ -148,6 +164,7 @@
 ## Proprietary & External Services
 
 - [autofix.ci](https://autofix.ci/)
+- [codecov/codecov-action](https://github.com/codecov/codecov-action)
 - [Codecov: Popular Actions Blog](https://about.codecov.io/blog/discovering-the-most-popular-and-most-used-github-actions)
 - [HashiCorp Vault Action](https://github.com/hashicorp/vault-action)
 - [Snyk Actions](https://github.com/snyk/actions)
