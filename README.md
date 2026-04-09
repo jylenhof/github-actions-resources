@@ -121,6 +121,8 @@
 - [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg)
 - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
 - [gacts/gitleaks](https://github.com/gacts/gitleaks)
+- [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action)
 - [j178/prek-action](https://github.com/j178/prek-action)
 - [mpalmer/action-validator](https://github.com/mpalmer/action-validator)
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
