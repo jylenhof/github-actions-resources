@@ -106,6 +106,7 @@
 - [leafo/gh-actions-lua](https://github.com/leafo/gh-actions-lua)
 - [leafo/gh-actions-luarocks](https://github.com/leafo/gh-actions-luarocks)
 - [mikefarah/yq](https://github.com/mikefarah/yq)
+- [muzimuzhi/setup-pre-commit-uv](https://github.com/muzimuzhi/actions/tree/main/setup-pre-commit-uv)
 - [oven-sh/setup-bun](https://github.com/oven-sh/setup-bun)
 - [peaceiris/actions-mdbook](https://github.com/peaceiris/actions-mdbook)
 - [PyO3/maturin-action](https://github.com/PyO3/maturin-action)
