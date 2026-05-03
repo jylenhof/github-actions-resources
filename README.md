@@ -201,7 +201,7 @@
 
 - [autofix.ci](https://autofix.ci/)
 - [codecov/codecov-action](https://github.com/codecov/codecov-action)
-- [Codecov: Popular Actions Blog](https://about.codecov.io/blog/discovering-the-most-popular-and-most-used-github-actions)
+- [Codecov: Popular Actions Blog](https://about.codecov.io/blog/discovering-the-most-popular-and-most-used-github-actions/)
 - [HashiCorp Vault Action](https://github.com/hashicorp/vault-action)
 - [Snyk Actions](https://github.com/snyk/actions)
 - [SonarSource SonarQube Scan](https://github.com/sonarsource/sonarqube-scan-action)
