@@ -76,6 +76,7 @@
 - [poseidon/wait-for-status-checks](https://github.com/poseidon/wait-for-status-checks)
 - [re-actors/alls-green](https://github.com/re-actors/alls-green)
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+- [rlespinasse/git-commit-data-action](https://github.com/rlespinasse/git-commit-data-action)
 - [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action)
 - [rlespinasse/slugify-value](https://github.com/rlespinasse/slugify-value)
 - [rtCamp/action-slack-notify](https://github.com/rtCamp/action-slack-notify)
