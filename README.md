@@ -150,6 +150,7 @@
 - [DavidAnson/markdownlint-cli2-action](https://github.com/DavidAnson/markdownlint-cli2-action)
 - [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
 - [fabasoad/sarif-to-slack-action](https://github.com/fabasoad/sarif-to-slack-action)
+- [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action)
 - [gacts/gitleaks](https://github.com/gacts/gitleaks)
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action)
 - [j178/prek-action](https://github.com/j178/prek-action)
