@@ -113,6 +113,13 @@
 - [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact)
 - [suzuki-shunsuke/tfaction](https://github.com/suzuki-shunsuke/tfaction)
 
+### actions-rust-lang Collection
+
+- [actions-rust-lang/audit](https://github.com/actions-rust-lang/audit)
+- [actions-rust-lang/msrv](https://github.com/actions-rust-lang/msrv)
+- [actions-rust-lang/rustfmt](https://github.com/actions-rust-lang/rustfmt)
+- [actions-rust-lang/setup-rust-toolchain](https://github.com/actions-rust-lang/setup-rust-toolchain)
+
 ### Tooling & Environment Setup
 
 - [alexellis/arkade-get](https://github.com/alexellis/arkade-get)
