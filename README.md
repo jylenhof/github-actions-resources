@@ -210,6 +210,12 @@
 - [renovatebot/github-action](https://github.com/renovatebot/github-action)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate)
 
+## Projects I'm Building
+
+Tools I'm actively developing for GitHub Actions workflows.
+
+- [jylenhof/gh-action-pulse](https://github.com/jylenhof/gh-action-pulse) — Scans repositories for `uses:` references, checks them against the GitHub API, and rewrites them to safer or more current pins. Also monitors dependency health (staleness, Node.js runtime, archived upstreams).
+
 ## Proprietary & External Services
 
 - [autofix.ci](https://autofix.ci/)
