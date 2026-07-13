@@ -55,6 +55,7 @@
 - [crazy-max/ghaction-github-labeler](https://github.com/crazy-max/ghaction-github-labeler)
 - [crazy-max/ghaction-github-status](https://github.com/crazy-max/ghaction-github-status)
 - [dorny/paths-filter](https://github.com/dorny/paths-filter)
+- [elpic/actions](https://github.com/elpic/actions)
 - [FantasticFiasco/action-update-license-year](https://github.com/FantasticFiasco/action-update-license-year)
 - [gacts/add-to-release-notes](https://github.com/gacts/add-to-release-notes)
 - [gacts/github-slug](https://github.com/gacts/github-slug)
