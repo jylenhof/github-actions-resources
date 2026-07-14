@@ -102,3 +102,9 @@ repos:
         entry: zizmor
         language: system
         files: '(\.github/(workflows/.*|actions/.*/action|dependabot\.ya?ml))|(action\.ya?ml)$'
+
+      - id: lychee # markdown link checker
+        name: lychee
+        entry: lychee
+        language: system
+        files: '\.md$'
