@@ -8,7 +8,7 @@ editorconfig-checker = "3.7.0"
 ghalint = "1.5.6"
 pinact = "4.1.0"
 "pipx:gh-action-pulse" = { version = "1.0.0", uvx = true }
-prek = "0.4.5"
+prek = "0.4.9"
 rumdl = "0.2.18"
 shellcheck = "0.11.0"
 shfmt = "3.13.1"
