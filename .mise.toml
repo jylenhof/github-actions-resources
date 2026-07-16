@@ -2,21 +2,21 @@
 
 [tools]  # tombi: format.rules.table-keys-order = "ascending"
 # tools to use on all my projects
-action-validator = "latest"
-actionlint = "latest"
+action-validator = "0.9.0"
+actionlint = "1.7.12"
 editorconfig-checker = "3.7.0"
-ghalint = "latest"
-pinact = "latest"
-"pipx:gh-action-pulse" = { version = "latest", uvx = true }
+ghalint = "1.5.6"
+pinact = "4.1.0"
+"pipx:gh-action-pulse" = { version = "1.0.0", uvx = true }
 prek = "0.4.5"
 rumdl = "0.2.18"
-shellcheck = "latest"
-shfmt = "latest"
+shellcheck = "0.11.0"
+shfmt = "3.13.1"
 tombi = "1.1.3"
-uv = "latest"
-yamlfmt = "latest"
-yamllint = "latest"
-zizmor = "latest"
+uv = "0.11.28"
+yamlfmt = "0.21.0"
+yamllint = "1.38.0"
+zizmor = "1.27.0"
 
 # To checks links
 lychee = "0.24.2"
