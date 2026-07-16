@@ -3,7 +3,7 @@ name: mise tool updates
 
 on:
   schedule:
-    - cron: '30 5 * * 1'
+    - cron: '30 6 * * 1'
   workflow_dispatch:
     inputs:
       tools:
