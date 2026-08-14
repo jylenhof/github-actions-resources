@@ -68,6 +68,7 @@
 - [korthout/backport-action](https://github.com/korthout/backport-action)
 - [lewagon/wait-on-check-action](https://github.com/lewagon/wait-on-check-action)
 - [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment)
+- [matiasalbarello/wait-on-check-action-ts](https://github.com/matiasalbarello/wait-on-check-action-ts)
 - [mheap/require-checklist-action](https://github.com/mheap/require-checklist-action)
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate)
 - [myrotvorets/set-commit-status-action](https://github.com/myrotvorets/set-commit-status-action)
