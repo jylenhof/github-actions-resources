@@ -219,7 +219,6 @@ Tools I'm actively developing for GitHub Actions workflows.
 
 ## Proprietary & External Services
 
-- [autofix.ci](https://autofix.ci/)
 - [codecov/codecov-action](https://github.com/codecov/codecov-action)
 - [Codecov: Popular Actions Blog](https://about.codecov.io/blog/discovering-the-most-popular-and-most-used-github-actions/)
 - [HashiCorp Vault Action](https://github.com/hashicorp/vault-action)
