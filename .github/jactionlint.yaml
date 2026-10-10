@@ -1,0 +1,9 @@
+---
+# https://github.com/jdx/jactionlint/blob/main/docs/config.md
+# Profiles, each including the previous one:
+#   correctness: what actionlint checks (syntax, expressions, shellcheck...)
+#                plus jactionlint bug detectors
+#   default:     correctness plus security and policy rules (pinned actions,
+#                permissions, timeouts, concurrency, dangerous triggers...)
+#   pedantic:    default plus noisy and opinionated rules
+profile: default

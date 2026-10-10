@@ -172,7 +172,9 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
 - [pre-commit/action](https://github.com/pre-commit/action)
 - [reviewdog/action-actionlint](https://github.com/reviewdog/action-actionlint)
-- [rhysd/actionlint](https://github.com/rhysd/actionlint)
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) — alternatives (maintained forks):
+  - [jdx/jactionlint](https://github.com/jdx/jactionlint) — maintained fork of actionlint (used here): same checks via `profile: correctness`, plus security/policy rules (pinned actions, permissions, timeouts, concurrency…) in the `default`/`pedantic` profiles, rule IDs, baselines and `--fix`
+  - [kjanat/actionlint](https://github.com/kjanat/actionlint) — another maintained fork of actionlint, a drop-in replacement adding policy checks, composite action validation and Docker images
 - [semgrep/semgrep](https://github.com/semgrep/semgrep)
 - [step-security/harden-runner](https://github.com/step-security/harden-runner)
 - [step-security/secure-repo](https://github.com/step-security/secure-repo)
