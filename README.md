@@ -148,7 +148,6 @@
 - [taiki-e/install-action](https://github.com/taiki-e/install-action)
 - [tenthirtyam/setup-task](https://github.com/tenthirtyam/setup-task)
 - [tombi-toml/setup-tombi](https://github.com/tombi-toml/setup-tombi)
-- [verzly/setup-aube](https://github.com/verzly/setup-aube)
 
 ### Security & Quality
 
